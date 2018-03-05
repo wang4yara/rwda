@@ -1,0 +1,3 @@
+install.package("devtool")
+devtools::install_github("sjhfx/rwda")
+library(rwda)
